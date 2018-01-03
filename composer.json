@@ -29,7 +29,7 @@
         "php": "^7.1",
         "ext-zip": "*",
         "ext-curl": "*",
-        "phpunit/phpunit": "^5.7.11",
+        "phpunit/phpunit": ">=5.7.11",
         "symfony/console": "^4.0",
         "symfony/process": "^4.0 !=4.0.2",
         "symfony/finder": "^4.0",
